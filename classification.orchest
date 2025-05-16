@@ -1,0 +1,11 @@
+{
+    "name": "Classification",
+    "parameters": {},
+    "settings": {
+        "auto_eviction": false,
+        "data_passing_memory_size": "1GB"
+    },
+    "steps": {},
+    "uuid": "de57472a-18d8-4b1d-8c63-5c87e2fd7c35",
+    "version": "1.0.0"
+}
